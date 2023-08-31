@@ -1,4 +1,3 @@
-
 import { NextRequest, NextResponse } from "next/server";
 import {connectDB} from '@/dbconfig/dbConfig'
 import User from "@/models/userModel";

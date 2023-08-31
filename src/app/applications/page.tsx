@@ -1,6 +1,8 @@
 "use client";
 import PageTitle from "@/components/PageTitle";
-import { Table, message } from "antd";
+
+import { Table , message } from "antd";
+
 import React from "react";
 import { useRouter } from "next/navigation";
 import { useDispatch, useSelector } from "react-redux";
